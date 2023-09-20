@@ -3,3 +3,23 @@
 2. git status
 
 3. git add .
+
+4. git commit -m "Names.txt file added"
+
+5. git restore --staged names.txt
+
+6. git log
+
+7. git reset 2714d8ae8f5f3caef9162679de87319d3d48d00f
+
+8. git stash
+
+9. git stash pop
+
+10. git stash clear
+
+11. git remote add origin https://github.com/GodMayank/Git-GitHub-Tutorial.git
+
+12. git remote -v
+
+13. git push origin master
