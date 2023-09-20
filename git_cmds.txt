@@ -23,3 +23,5 @@
 12. git remote -v
 
 13. git push origin master
+
+14. git project add upstream https://github.com/comclassroom/comclassroomOP.git
